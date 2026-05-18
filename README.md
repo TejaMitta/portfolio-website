@@ -14,7 +14,7 @@ This is my personal portfolio website built using:
 - Contact Form
 
 ## Live Website
-Coming Soon...
+Portfolio Website
 
 ## Author
 Teja Mitta
