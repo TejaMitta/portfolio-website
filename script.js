@@ -1,5 +1,3 @@
-// ================= SMOOTH SCROLL =================
-
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
     anchor.addEventListener('click', function (e) {
@@ -13,8 +11,6 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 
 });
-
-// ================= ACTIVE NAVBAR =================
 
 window.addEventListener('scroll', () => {
 
@@ -41,8 +37,6 @@ window.addEventListener('scroll', () => {
     });
 
 });
-
-// ================= WELCOME MESSAGE =================
 
 window.onload = () => {
 
